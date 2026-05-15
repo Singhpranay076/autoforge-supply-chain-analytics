@@ -1,0 +1,7 @@
+vehicle_model,component_id,component_name,quantity_per_unit
+SUV_X1,ENG204,Engine Assembly ,1
+SUV_X1,TYR552,Tire,4
+SUV_X1,CHIP778, Chipset Module,12
+SUV_X1,BOLT-991,Bolt Kit ,450
+SED_A2,BRAKE-331,Brake Module,2
+SED_A2,SENS-445,Sensor Assembly,8

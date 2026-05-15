@@ -1,0 +1,5 @@
+shipment_id,origin,destination,mode,transit_days,delay_days,supplier_id
+SHP998,Chennai,Pune_Plant,Rail,4,2,SUP102
+SHP999, Japan ,Chennai_Plant,Sea,18,0,SUP205
+SHP1000,Germany,Pune_Plant,Air,3,1,SUP307
+SHP1001,China,Chennai_Plant,Road,12,5,SUP419

@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,lead_time_days,defect_rate,contract_cost
+SUP102, Bosch GmbH ,Germany,21,0.008,12500000
+SUP205,Denso Corporation,Japan,18,0.005,8200000
+SUP307, Continental AG ,Germany,25,0.012,9500000
+SUP419,Foxconn ,China,30,0.021,11000000
+SUP521,Magna International,Canada,15,0.009,14500000

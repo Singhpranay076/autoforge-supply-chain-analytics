@@ -1,0 +1,8 @@
+,AutoForge Motors - Master Supply Chain View (Day 1),,,,,,,,,,
+vehicle_model,component_id,component_name,quantity_per_unit,supplier_id,supplier_name,country,lead_time_days,defect_rate,lead_time_risk,critical_components,defect_impact
+SUV_X1,ENG204,Engine Assembly,1.00,SUP102,Bosch GmbH,Germany,21,0.008,High Risk,Normal,8000
+SUV_X1,TYR552,Tire,4.00,SUP205,Denso Corporation,Japan,18,0.005,Low Risk,Normal,5000
+SUV_X1,CHIP778,Chipset Module,12.00,SUP307,Continental AG,Germany,25,0.012,High Risk,Critical,12000
+SUV_X1,BOLT-991,Bolt Kit,450.00,SUP419,Foxconn,China,30,0.021,High Risk,Critical,21000
+SED_A2,BRAKE-331,Brake Module,2.00,SUP102,Bosch GmbH,Germany,21,0.008,High Risk,Normal,8000
+SED_A2,SENS-445,Sensor Assembly,8.00,SUP521,Magna International,Canada,15,0.009,Low Risk,Normal,9000

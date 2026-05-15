@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,lead_time_days,defect_rate,contract_cost,check,country_clean
+SUP102,Bosch GmbH,Germany,21,0.008,"₹12,500,000.00",Ok,Germany
+SUP205,Denso Corporation,Japan,18,0.005,"₹8,200,000.00",Ok,Japan
+SUP307,Continental AG,Germany,25,0.012,"₹9,500,000.00",Ok,Germany
+SUP419,Foxconn,China,30,0.021,"₹11,000,000.00",Ok,China
+SUP521,Magna International,Canada,15,0.009,"₹14,500,000.00",Ok,Canada

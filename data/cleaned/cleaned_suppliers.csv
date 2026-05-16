@@ -1,0 +1,26 @@
+supplier_id,supplier_name,location,country,avg_lead_time_days,reliability_score,on_time_delivery_rate
+SUP001,Bosch Automotive,"Stuttgart, Germany",Germany,4,0.86,95.52
+SUP002,Continental AG,"Hanover, Germany",Germany,10,0.86,95.52
+SUP003,Denso Corporation,"Kariya, Japan",Japan,10,0.86,95.52
+SUP004,Magna International,"Aurora, Canada",Canada,3,0.86,95.52
+SUP005,Lear Corporation,"Southfield, USA",USA,13,0.86,95.52
+SUP006,Valeo,"Paris, France",France,13,0.86,95.52
+SUP007,ZF Friedrichshafen,"Friedrichshafen, Germany",Germany,4,0.86,95.52
+SUP008,Faurecia,"Nanterre, France",France,5,0.86,95.52
+SUP009,Autoliv,"Stockholm, Sweden",Sweden,16,0.86,95.52
+SUP010,BorgWarner,"Auburn Hills, USA",USA,11,0.86,95.52
+SUP011,Delphi Technologies,"Troy, USA",USA,15,0.86,95.52
+SUP012,Yazaki Corporation,"Tokyo, Japan",Japan,10,0.86,95.52
+SUP013,Sumitomo Electric,"Osaka, Japan",Japan,5,0.86,95.52
+SUP014,Hyundai Mobis,"Seoul, South Korea",South Korea,15,0.86,95.52
+SUP015,Aisin Seiki,"Kariya, Japan",Japan,11,0.86,95.52
+SUP016,Toyoda Gosei,"Inabe, Japan",Japan,15,0.86,95.52
+SUP017,Mahle GmbH,"Stuttgart, Germany",Germany,7,0.86,95.52
+SUP018,Tenneco,"Lake Forest, USA",USA,8,0.86,95.52
+SUP019,Honeywell,"Charlotte, USA",USA,3,0.86,95.52
+SUP020,3M Automotive,"St. Paul, USA",USA,6,0.86,95.52
+SUP021,Saint-Gobain,"Courbevoie, France",France,4,0.86,95.52
+SUP022,Schaeffler Group,"Herzogenaurach, Germany",Germany,7,0.86,95.52
+SUP023,NTN Corporation,"Osaka, Japan",Japan,13,0.86,95.52
+SUP024,SKF Group,"Gothenburg, Sweden",Sweden,4,0.86,95.52
+SUP025,GKN Automotive,"Redditch, UK",UK,5,0.86,95.52

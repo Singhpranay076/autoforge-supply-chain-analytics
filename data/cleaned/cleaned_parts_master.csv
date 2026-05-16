@@ -1,0 +1,151 @@
+part_id,part_name,category,supplier_id,unit_cost_usd,standard_lead_time_days,abc_classification,critical_for_jit
+P00001,Engine Control Module,Transmission,SUP002,12.57,5,B,False
+P00002,Brake Caliper Assembly,Brakes,SUP008,396.11,10,B,False
+P00003,Front Bumper Assembly,Electronics,SUP011,685.94,10,C,False
+P00004,LED Headlamp,Suspension,SUP010,241.53,15,C,False
+P00005,Transmission Gear Set,Interior,SUP013,683.91,14,C,True
+P00006,Catalytic Converter,Suspension,SUP003,731.98,13,C,False
+P00007,Airbag Module,Transmission,SUP010,141.86,7,C,False
+P00008,Power Steering Pump,Brakes,SUP019,725.17,6,C,False
+P00009,Radiator Assembly,Engine,SUP017,161.19,13,B,False
+P00010,Alternator,Suspension,SUP001,42.93,12,C,False
+P00011,Fuel Injector Set,Interior,SUP002,515.52,8,B,False
+P00012,Door Lock Actuator,Engine,SUP008,744.28,14,B,False
+P00013,Wiper Motor,Suspension,SUP011,355.5,12,A,False
+P00014,Suspension Control Arm,Interior,SUP017,100.69,6,C,True
+P00015,Oxygen Sensor,Suspension,SUP007,778.37,8,C,False
+P00016,Battery Pack (Hybrid),Interior,SUP021,813.67,11,B,False
+P00017,Seat Belt Retractor,Suspension,SUP007,328.39,5,B,False
+P00018,Climate Control Panel,Electronics,SUP024,416.77,11,B,False
+P00019,ABS Sensor,Electronics,SUP005,227.19,12,B,False
+P00020,Drive Shaft,Brakes,SUP007,591.32,4,C,False
+P00021,Exhaust Manifold,Suspension,SUP020,246.91,14,A,True
+P00022,Timing Belt,Engine,SUP018,74.43,13,C,False
+P00023,Spark Plug Set,Transmission,SUP007,580.36,6,B,False
+P00024,Oil Filter,Brakes,SUP013,469.6,11,B,True
+P00025,Brake Pad Set,Brakes,SUP002,445.41,13,C,False
+P00026,Engine Control Module,Transmission,SUP020,95.49,13,C,True
+P00027,Brake Caliper Assembly,Engine,SUP015,525.28,5,B,True
+P00028,Front Bumper Assembly,Engine,SUP004,668.98,7,C,False
+P00029,LED Headlamp,Brakes,SUP025,790.57,13,B,False
+P00030,Transmission Gear Set,Electronics,SUP012,742.82,10,B,False
+P00031,Catalytic Converter,Transmission,SUP011,660.92,12,C,False
+P00032,Airbag Module,Interior,SUP001,804.04,11,B,False
+P00033,Power Steering Pump,Suspension,SUP013,192.19,9,C,False
+P00034,Radiator Assembly,Body,SUP012,486.98,7,B,False
+P00035,Alternator,Body,SUP023,335.01,13,C,False
+P00036,Fuel Injector Set,Body,SUP018,661.03,8,C,False
+P00037,Door Lock Actuator,Electronics,SUP024,707.89,8,B,False
+P00038,Wiper Motor,Transmission,SUP019,358.22,5,B,False
+P00039,Suspension Control Arm,Engine,SUP023,774.82,10,C,False
+P00040,Oxygen Sensor,Brakes,SUP019,274.7,8,B,False
+P00041,Battery Pack (Hybrid),Transmission,SUP023,716.31,8,A,False
+P00042,Seat Belt Retractor,Brakes,SUP003,636.3,4,A,False
+P00043,Climate Control Panel,Interior,SUP018,650.57,8,C,False
+P00044,ABS Sensor,Engine,SUP006,166.38,7,A,False
+P00045,Drive Shaft,Transmission,SUP009,32.82,12,C,False
+P00046,Exhaust Manifold,Interior,SUP014,487.63,15,A,False
+P00047,Timing Belt,Body,SUP005,823.56,13,B,False
+P00048,Spark Plug Set,Suspension,SUP011,196.71,11,A,False
+P00049,Oil Filter,Engine,SUP003,632.25,13,B,False
+P00050,Brake Pad Set,Engine,SUP024,724.94,13,C,False
+P00051,Engine Control Module,Brakes,SUP019,774.6,7,C,True
+P00052,Brake Caliper Assembly,Electronics,SUP013,381.69,9,C,True
+P00053,Front Bumper Assembly,Engine,SUP006,790.28,6,C,False
+P00054,LED Headlamp,Electronics,SUP021,580.76,8,B,False
+P00055,Transmission Gear Set,Brakes,SUP007,15.96,6,C,False
+P00056,Catalytic Converter,Body,SUP003,717.54,10,C,False
+P00057,Airbag Module,Engine,SUP002,499.98,15,C,False
+P00058,Power Steering Pump,Electronics,SUP013,91.45,14,C,False
+P00059,Radiator Assembly,Electronics,SUP023,706.43,12,C,False
+P00060,Alternator,Transmission,SUP005,52.57,4,C,False
+P00061,Fuel Injector Set,Brakes,SUP020,815.24,9,C,False
+P00062,Door Lock Actuator,Brakes,SUP005,753.46,4,C,False
+P00063,Wiper Motor,Suspension,SUP005,545.81,4,C,True
+P00064,Suspension Control Arm,Transmission,SUP024,741.88,10,C,True
+P00065,Oxygen Sensor,Body,SUP015,491.52,9,C,False
+P00066,Battery Pack (Hybrid),Engine,SUP019,555.15,11,C,False
+P00067,Seat Belt Retractor,Suspension,SUP019,721.58,7,B,False
+P00068,Climate Control Panel,Suspension,SUP020,138.34,10,C,False
+P00069,ABS Sensor,Suspension,SUP013,767.98,14,B,False
+P00070,Drive Shaft,Electronics,SUP021,644.64,10,B,False
+P00071,Exhaust Manifold,Transmission,SUP003,206.23,13,C,False
+P00072,Timing Belt,Electronics,SUP010,26.1,9,C,False
+P00073,Spark Plug Set,Suspension,SUP011,569.86,11,B,True
+P00074,Oil Filter,Body,SUP021,47.52,5,C,False
+P00075,Brake Pad Set,Suspension,SUP006,299.82,15,C,False
+P00076,Engine Control Module,Transmission,SUP021,732.84,6,C,False
+P00077,Brake Caliper Assembly,Suspension,SUP017,94.55,10,A,False
+P00078,Front Bumper Assembly,Suspension,SUP018,813.2,13,B,False
+P00079,LED Headlamp,Transmission,SUP010,155.69,8,A,False
+P00080,Transmission Gear Set,Interior,SUP001,156.59,9,C,False
+P00081,Catalytic Converter,Transmission,SUP021,597.29,11,C,False
+P00082,Airbag Module,Engine,SUP014,149.04,7,C,True
+P00083,Power Steering Pump,Brakes,SUP013,657.23,13,A,False
+P00084,Radiator Assembly,Suspension,SUP004,96.84,5,B,False
+P00085,Alternator,Engine,SUP021,522.12,5,B,False
+P00086,Fuel Injector Set,Transmission,SUP021,726.72,9,B,False
+P00087,Door Lock Actuator,Body,SUP005,81.04,15,B,False
+P00088,Wiper Motor,Interior,SUP024,14.16,6,C,False
+P00089,Suspension Control Arm,Engine,SUP013,502.66,15,C,True
+P00090,Oxygen Sensor,Transmission,SUP005,163.31,4,C,False
+P00091,Battery Pack (Hybrid),Engine,SUP005,337.82,14,C,False
+P00092,Seat Belt Retractor,Brakes,SUP009,217.57,15,C,False
+P00093,Climate Control Panel,Interior,SUP016,520.44,14,A,False
+P00094,ABS Sensor,Body,SUP009,258.36,14,C,True
+P00095,Drive Shaft,Engine,SUP016,58.3,7,C,False
+P00096,Exhaust Manifold,Engine,SUP022,773.58,6,C,False
+P00097,Timing Belt,Transmission,SUP011,558.17,8,C,False
+P00098,Spark Plug Set,Transmission,SUP006,639.12,10,C,False
+P00099,Oil Filter,Electronics,SUP018,135.56,9,C,False
+P00100,Brake Pad Set,Brakes,SUP015,560.32,6,C,False
+P00101,Engine Control Module,Brakes,SUP013,102.86,15,C,False
+P00102,Brake Caliper Assembly,Interior,SUP012,126.54,13,C,False
+P00103,Front Bumper Assembly,Suspension,SUP018,321.17,8,C,False
+P00104,LED Headlamp,Interior,SUP020,481.45,5,C,False
+P00105,Transmission Gear Set,Suspension,SUP016,796.97,5,C,True
+P00106,Catalytic Converter,Brakes,SUP005,790.34,12,C,False
+P00107,Airbag Module,Electronics,SUP004,431.87,8,B,False
+P00108,Power Steering Pump,Interior,SUP003,239.43,13,C,True
+P00109,Radiator Assembly,Transmission,SUP012,733.23,10,B,False
+P00110,Alternator,Electronics,SUP017,560.23,11,C,True
+P00111,Fuel Injector Set,Engine,SUP024,59.87,13,C,True
+P00112,Door Lock Actuator,Body,SUP019,342.54,8,C,False
+P00113,Wiper Motor,Brakes,SUP001,354.13,11,C,False
+P00114,Suspension Control Arm,Body,SUP014,527.47,7,C,False
+P00115,Oxygen Sensor,Interior,SUP008,377.36,5,A,False
+P00116,Battery Pack (Hybrid),Engine,SUP014,501.66,4,C,False
+P00117,Seat Belt Retractor,Engine,SUP021,562.8,4,B,True
+P00118,Climate Control Panel,Brakes,SUP006,38.3,13,B,False
+P00119,ABS Sensor,Brakes,SUP003,59.66,15,C,False
+P00120,Drive Shaft,Transmission,SUP003,91.18,5,C,True
+P00121,Exhaust Manifold,Electronics,SUP011,452.62,14,C,False
+P00122,Timing Belt,Suspension,SUP017,496.51,8,C,True
+P00123,Spark Plug Set,Interior,SUP020,6.5,11,C,False
+P00124,Oil Filter,Brakes,SUP015,122.41,4,C,False
+P00125,Brake Pad Set,Transmission,SUP013,627.45,13,A,True
+P00126,Engine Control Module,Brakes,SUP021,714.41,14,C,False
+P00127,Brake Caliper Assembly,Brakes,SUP019,493.89,15,C,True
+P00128,Front Bumper Assembly,Body,SUP005,373.33,14,C,False
+P00129,LED Headlamp,Transmission,SUP003,192.58,13,B,False
+P00130,Transmission Gear Set,Interior,SUP014,389.96,5,C,False
+P00131,Catalytic Converter,Body,SUP006,105.82,13,B,False
+P00132,Airbag Module,Transmission,SUP001,418.88,9,C,True
+P00133,Power Steering Pump,Body,SUP009,562.92,9,B,False
+P00134,Radiator Assembly,Body,SUP001,714.85,14,B,False
+P00135,Alternator,Suspension,SUP014,418.51,13,C,False
+P00136,Fuel Injector Set,Interior,SUP005,427.84,5,B,False
+P00137,Door Lock Actuator,Transmission,SUP009,598.66,13,C,False
+P00138,Wiper Motor,Suspension,SUP019,529.89,12,B,True
+P00139,Suspension Control Arm,Body,SUP022,655.77,5,C,False
+P00140,Oxygen Sensor,Body,SUP013,147.12,8,C,True
+P00141,Battery Pack (Hybrid),Transmission,SUP001,807.42,5,B,False
+P00142,Seat Belt Retractor,Interior,SUP003,158.37,9,C,False
+P00143,Climate Control Panel,Transmission,SUP020,529.62,13,B,False
+P00144,ABS Sensor,Engine,SUP009,802.88,8,B,False
+P00145,Drive Shaft,Transmission,SUP025,580.28,8,B,False
+P00146,Exhaust Manifold,Transmission,SUP007,140.66,13,C,False
+P00147,Timing Belt,Electronics,SUP011,18.93,14,B,False
+P00148,Spark Plug Set,Transmission,SUP025,609.57,12,A,False
+P00149,Oil Filter,Engine,SUP017,414.91,7,B,True
+P00150,Brake Pad Set,Transmission,SUP024,722.14,7,A,True
